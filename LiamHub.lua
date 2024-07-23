@@ -131,7 +131,7 @@ else
             if not isfolder("LiamHub_V2") then
                 makefolder("LiamHub_V2")
             end
-            if not isfolder("ZkHubX_Save_V2/Blox Fruits/") then
+            if not isfolder("LiamHub_V2/Blox Fruits/") then
                 makefolder("LiamHub_V2/Blox Fruits/")
             end
             if not isfile("LiamHub_V2/Blox Fruits/" .. game.Players.LocalPlayer.Name .. ".json") then
